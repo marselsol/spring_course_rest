@@ -1,7 +1,7 @@
-package com.marselgaisin.spring.mvc_hibernate_aop.service;
+package com.marselgaisin.spring.rest.service;
 
-import com.marselgaisin.spring.mvc_hibernate_aop.dao.EmployeeDAO;
-import com.marselgaisin.spring.mvc_hibernate_aop.entity.Employee;
+import com.marselgaisin.spring.rest.dao.EmployeeDAO;
+import com.marselgaisin.spring.rest.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

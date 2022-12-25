@@ -1,4 +1,4 @@
-package com.marselgaisin.spring.mvc_hibernate_aop.entity;
+package com.marselgaisin.spring.rest.entity;
 
 import javax.persistence.*;
 

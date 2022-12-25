@@ -1,6 +1,6 @@
-package com.marselgaisin.spring.mvc_hibernate_aop.dao;
+package com.marselgaisin.spring.rest.dao;
 
-import com.marselgaisin.spring.mvc_hibernate_aop.entity.Employee;
+import com.marselgaisin.spring.rest.entity.Employee;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;

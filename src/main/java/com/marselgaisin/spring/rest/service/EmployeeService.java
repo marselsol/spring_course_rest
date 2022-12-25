@@ -1,6 +1,6 @@
-package com.marselgaisin.spring.mvc_hibernate_aop.service;
+package com.marselgaisin.spring.rest.service;
 
-import com.marselgaisin.spring.mvc_hibernate_aop.entity.Employee;
+import com.marselgaisin.spring.rest.entity.Employee;
 
 import java.util.List;
 
