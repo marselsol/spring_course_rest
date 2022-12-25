@@ -9,19 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fd1724c-62d1-4e0f-8760-6a5b4871e371" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lessons" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2fd1724c-62d1-4e0f-8760-6a5b4871e371" name="Changes" comment="082 done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/exeption_handling/EmployeeIncorrectData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/exeption_handling/NoSuchEmployeeException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/configuration/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/configuration/MyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/configuration/MyWebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/configuration/MyWebInitializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/controller/MyRESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/controller/MyRESTController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/dao/EmployeeDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/dao/EmployeeDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/dao/EmployeeDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/entity/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/service/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/service/EmployeeServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,8 +171,16 @@
       <updated>1671950625829</updated>
       <workItem from="1671950627126" duration="4814000" />
       <workItem from="1671963900467" duration="640000" />
-      <workItem from="1671966942267" duration="3923000" />
+      <workItem from="1671966942267" duration="6614000" />
     </task>
+    <task id="LOCAL-00001" summary="082 done">
+      <created>1671974887976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671974887976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,5 +196,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="082 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="082 done" />
   </component>
 </project>
