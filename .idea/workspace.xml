@@ -9,9 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fd1724c-62d1-4e0f-8760-6a5b4871e371" name="Changes" comment="082 done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/exeption_handling/EmployeeIncorrectData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/exeption_handling/NoSuchEmployeeException.java" afterDir="false" />
+    <list default="true" id="2fd1724c-62d1-4e0f-8760-6a5b4871e371" name="Changes" comment="083 done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/exeption_handling/EmployeeGlobalExceptionHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/controller/MyRESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marselgaisin/spring/rest/controller/MyRESTController.java" afterDir="false" />
     </list>
@@ -48,25 +47,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/prog/spring_course_rest/src/main/java/com/marselgaisin/spring/rest",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "spring.configuration.checksum": "23c9f21ebc79f148d0975052a928e8d1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/prog/spring_course_rest/src/main/java/com/marselgaisin/spring/rest&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;23c9f21ebc79f148d0975052a928e8d1&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\prog\spring_course_rest\src\main\java\com\marselgaisin\spring\rest" />
@@ -171,7 +169,10 @@
       <updated>1671950625829</updated>
       <workItem from="1671950627126" duration="4814000" />
       <workItem from="1671963900467" duration="640000" />
-      <workItem from="1671966942267" duration="6614000" />
+      <workItem from="1671966942267" duration="7209000" />
+      <workItem from="1672050907165" duration="342000" />
+      <workItem from="1672129758528" duration="1068000" />
+      <workItem from="1672130873785" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="082 done">
       <created>1671974887976</created>
@@ -180,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671974887976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="083 done">
+      <created>1671981325081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671981325081</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +207,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="082 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="082 done" />
+    <MESSAGE value="083 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="083 done" />
   </component>
 </project>
