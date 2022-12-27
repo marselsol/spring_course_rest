@@ -14,7 +14,6 @@ public class EmployeeDAOImpl implements EmployeeDAO {
     @Autowired
     private SessionFactory sessionFactory;
 
-//    @Override
     public List<Employee> getAllEmployees() {
         Session session = sessionFactory.getCurrentSession();
         List<Employee> allEmployees = session.createQuery("FROM Employee", Employee.class).getResultList();
@@ -37,6 +36,5 @@ public class EmployeeDAOImpl implements EmployeeDAO {
         Employee employee = session.get(Employee.class, id);
 
         session.remove(employee);
-
     }
 }
